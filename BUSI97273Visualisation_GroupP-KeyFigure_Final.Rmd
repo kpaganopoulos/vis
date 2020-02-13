@@ -179,7 +179,7 @@ pie(slices,labels = lbls, main="Share of room types")
 Finally, we filter our data, in order to suggest some specific accommodations that fulfil our prerequisites. You can see the links of the accommodations that we suggest below:
 ```{r}
 data_suggest <- data %>%
-  filter(price <= 60) %>% 
+  filter(price <= 50) %>% 
   filter(availability_365 == 365) %>%
   filter(review_scores_rating >= 95) %>%
   filter(neighbourhood == 'Koukaki') %>%
@@ -189,3 +189,4 @@ data_suggest <- data %>%
 data_suggest
 ```
 ![Example output](TeamP_Tableau_Map.png)
+
