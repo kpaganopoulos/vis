@@ -12,3 +12,6 @@ Find a story
 Create visualisation and refine 
 • You must present at least 3 different chart types (i.e. don’t just make 3 scatter plots in report) 
 • Consider Why, How, and What of data visualisation from the lecture
+
+
+See output at https://kpaganopoulos.github.io/vis/
