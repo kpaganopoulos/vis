@@ -14,4 +14,4 @@ Create visualisation and refine
 • Consider Why, How, and What of data visualisation from the lecture
 
 
-See output at https://kpaganopoulos.github.io/vis/
+See html output from R markdown at https://kpaganopoulos.github.io/vis/
