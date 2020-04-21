@@ -1,5 +1,6 @@
 # vis
 Visualisation project
+
 Download the dataset 
 http://insideairbnb.com/get-the-data.html 
 • The data set is large and will probably not open well in Excel, so you will need to load the CSV file into R or another platform of your choice (e.g. Python) 
